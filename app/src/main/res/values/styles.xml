@@ -1,0 +1,17 @@
+<resources>
+
+
+    <style name="AppTheme" parent="AppTheme.Base">
+
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- colorPrimary  状态栏的颜色 -->
+        <item name="colorPrimaryDark">@color/colorAccent</item>
+
+        <!--Toolbar背景颜色-->
+        <item name="colorPrimary">@color/colorAccent</item>
+    </style>
+</resources>
